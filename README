@@ -5,6 +5,13 @@ hello world this I am reading this readme file like a crazy person who loves rea
 
 3rd commit 
 
+<<<<<<< HEAD
 edit for a 4th time
 
 
+=======
+
+
+this is a change that happened in the new feature branch
+
+>>>>>>> new_feature
